@@ -1,6 +1,6 @@
 # XOR-Based Audio Encryption System
 
-![XOR-Based Audio Encryption](insert_link_to_project_image_here)
+![XOR-Based Audio Encryption]()
 
 ## Overview
 
